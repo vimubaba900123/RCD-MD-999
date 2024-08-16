@@ -73,10 +73,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/RCD-MD/RCD-MD-V1.git"
+        "url": "git+https://github.com/RCD-MD-MAIN/RCD-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/RCD-MD/RCD-MD-V1/issues"
+        "url": "https://github.com/RCD-MD-MAIN/RCD-MD/issues"
     },
-    "homepage": "https://github.com/RCD-MD/RCD-MD-V1"
+    "homepage": "https://github.com/RCD-MD-MAIN/RCD-MD"
 }
