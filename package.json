@@ -1,12 +1,12 @@
 {
     "name": "RCD-MD",
     "version": "1.0.0",
-    "description": "Simple Whatsapp Bot made by nteej",
+    "description": "Simple Whatsapp Bot made by RCD",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
-        "run": "pm2 start . --deep-monitoring --attach --name RCD_0.1 || node .",
-        "start": "pm2 start . --attach --name RCD_0.1",
+        "run": "pm2 start . --deep-monitoring --attach --name RCD_MD_V1 || node .",
+        "start": "pm2 start . --attach --name RCD_MD_V1",
         "stop": "pm2 stop Anita_0.1",
         "build": "echo \"Building the project...\""
     },
@@ -73,10 +73,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DEXTER-BOTS/RCD-MD.git"
+        "url": "git+https://github.com/RCD-MD/RCD-MD-V1.git"
     },
     "bugs": {
-        "url": "https://github.com/DEXTER-BOTS/RCD-MD/issues"
+        "url": "https://github.com/RCD-MD/RCD-MD-V1/issues"
     },
-    "homepage": "https://github.com/DEXTER-BOTS/RCD-MD#readme"
+    "homepage": "https://github.com/RCD-MD/RCD-MD-V1"
 }
